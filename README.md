@@ -24,3 +24,5 @@ To run:
 ```bash
 bun run dev
 ```
+
+View live demo in [https://beth-todo-app.fly.dev](https://beth-todo-app.fly.dev)
